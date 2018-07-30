@@ -4,8 +4,8 @@
 let s:c = {}
 
 " Base colors.
-let s:c.base0 = { 'gui': '#0c1014', 'cterm': 232 }
-let s:c.base1 = { 'gui': '#11151c', 'cterm': 233 }
+let s:c.base0 = { 'gui': '#0a1014', 'cterm': 232 }
+let s:c.base1 = { 'gui': '#09151c', 'cterm': 233 }
 let s:c.base2 = { 'gui': '#091f2e', 'cterm': 17  }
 let s:c.base3 = { 'gui': '#0a3749', 'cterm': 18  }
 let s:c.base4 = { 'gui': '#1e6479', 'cterm': 31  }
@@ -14,6 +14,7 @@ let s:c.base6 = { 'gui': '#99d1ce', 'cterm': 122 }
 let s:c.base7 = { 'gui': '#d3ebe9', 'cterm': 194 }
 
 " Other colors.
+:qa
 let s:c.red     = { 'gui': '#c23127', 'cterm': 124 }
 let s:c.orange  = { 'gui': '#d26937', 'cterm': 166 }
 let s:c.yellow  = { 'gui': '#edb443', 'cterm': 214 }
