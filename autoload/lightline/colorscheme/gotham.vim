@@ -1,5 +1,5 @@
 let s:base03 = [ '#0a1014', '0' ]
-let s:base02 = [ '#11151c', '8' ]
+let s:base02 = [ '#09151c', '8' ]
 let s:base01 = [ '#091f2e', '10' ]
 let s:base00 = [ '#0a3749', '12' ]
 let s:base0  = [ '#1e6479', '11' ]
